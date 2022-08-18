@@ -7,7 +7,6 @@ A machine learning (ML) based adaptive positioning approach to estimate the posi
 This is adapted from "Getting started with rtklib-py": 
 https://www.kaggle.com/code/timeverett/getting-started-with-rtklib-py
 
-
 # Steps taken:
 
 ## Step 1: Retrieve base observation and satellite navigation files using
