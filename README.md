@@ -4,7 +4,7 @@ Google Smartphone Decimeter Challenge 2022 codes
 ## Implementation:
 A machine learning (ML) based adaptive positioning approach to estimate the positions of the smartphone by utilizing post-processed kinematic (PPK) precise positioning techniques to process the GNSS datasets. The ML model is used to predict the driving paths (highways, tree-lined streets, or downtown areas). Depending on the predicted driving path, the PPK technique computes the user position using different configuration settings.
 
-This is adapted from "Getting started with rtklib-py": 
+The PPK technique is adapted from "Getting started with rtklib-py": 
 https://www.kaggle.com/code/timeverett/getting-started-with-rtklib-py
 
 ## NOTE:
