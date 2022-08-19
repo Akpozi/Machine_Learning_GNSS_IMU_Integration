@@ -8,7 +8,7 @@ This is adapted from "Getting started with rtklib-py":
 https://www.kaggle.com/code/timeverett/getting-started-with-rtklib-py
 
 ## NOTE:
-The GSDC_2022_rtklib_py/data/ folder should have the following subfolders:
+The "GSDC_2022_rtklib_py/data/" folder should have the following subfolders:
 - GSDC_2022_rtklib_py/data/test
 - GSDC_2022_rtklib_py/data/train
 - GSDC_2022_rtklib_py/data/train_test_paths
