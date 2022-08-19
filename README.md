@@ -13,7 +13,7 @@ The "GSDC_2022_rtklib_py/data/" folder should have the following subfolders:
 - GSDC_2022_rtklib_py/data/train
 - GSDC_2022_rtklib_py/data/train_test_paths
 
-To get the "train" and "test" folders, download them from https://www.kaggle.com/competitions/smartphone-decimeter-2022/data and place them in their repective directory
+To get the "train" and "test" folders, download them from https://www.kaggle.com/competitions/smartphone-decimeter-2022/data and place them in the data directory.
 
 
 # Steps taken:
