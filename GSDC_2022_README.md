@@ -8,12 +8,12 @@ This is adapted from "Getting started with rtklib-py":
 https://www.kaggle.com/code/timeverett/getting-started-with-rtklib-py
 
 ## NOTE:
-The GSDC_2022_rtklib_py/data/ folder should have the following subfolders:
+The "GSDC_2022_rtklib_py/data/" folder should have the following subfolders:
 - GSDC_2022_rtklib_py/data/test
 - GSDC_2022_rtklib_py/data/train
 - GSDC_2022_rtklib_py/data/train_test_paths
 
-To get the "train" and "test" folders, download them from https://www.kaggle.com/competitions/smartphone-decimeter-2022/data and place them in their repective directory
+To get the "train" and "test" folders, download them from https://www.kaggle.com/competitions/smartphone-decimeter-2022/data and place them in the data directory.
 
 
 # Steps taken:
@@ -46,6 +46,6 @@ run_ppk_multi_MLPathPredict.py
 ## Step 5: use the .cvs solution file from Step 6 in "gnss_imu_fussion_test.py" to implement loosely coupled integration of GNSS/IMU.
    gnss_imu_fussion_test.py
    
-## Merge all the GNSS/IMU interation from all phones to one final submission file
+## Merge all the GNSS/IMU integration from all phones to one final submission file
 - ### Submit CSV file to Kaggle
    create_gnssIMU_KF.py
