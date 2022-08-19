@@ -46,6 +46,6 @@ run_ppk_multi_MLPathPredict.py
 ## Step 5: use the .cvs solution file from Step 6 in "gnss_imu_fussion_test.py" to implement loosely coupled integration of GNSS/IMU.
    gnss_imu_fussion_test.py
    
-## Merge all the GNSS/IMU interation from all phones to one final submission file
+## Merge all the GNSS/IMU integration from all phones to one final submission file
 - ### Submit CSV file to Kaggle
    create_gnssIMU_KF.py
